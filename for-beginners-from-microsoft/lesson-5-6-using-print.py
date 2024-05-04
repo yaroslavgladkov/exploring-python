@@ -8,3 +8,10 @@ print() # use blank line to increase readability in some cases
 print('blank line \nto increase readability in some cases')
 print(name)
 print('also, print() can help with debugging')
+
+print('hello world')
+
+name = input('what is your name? ')
+print('hello')
+print(name)
+print('hell\no')
