@@ -1,3 +1,3 @@
 first_name = input('what is your first name? ')
 last_name = input('what is your last name? ')
-print('hello ' + first_name.capitalize() + '' + last_name.capitalize())
+print('Hello ' + first_name.capitalize() + '' + last_name.capitalize())
